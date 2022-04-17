@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "type": "Для травоедов",
+            "name": "Капустные котлеты",
+            "kkal": "100",
+            "dose": "150",
+            "proteins": "1.5",
+            "fats": "1.2",
+            "carbohydrates": "2.8",
+            "link": "https://www.russianfood.com/recipes/recipe.php?rid=132930"
+        },
+        {
+            "id": 2,
+            "type": "Для травоедов",
+            "name": "Кускус с грибами и овощами",
+            "kkal": "100",
+            "dose": "300",
+            "proteins": "1.4",
+            "fats": "1.1",
+            "carbohydrates": "2.2",
+            "link": "https://www.russianfood.com/recipes/recipe.php?rid=166153"
+        },
+        {
+            "id": 3,
+            "type": "Суп",
+            "name": "Сырный суп с беконом",
+            "kkal": "200",
+            "dose": "350",
+            "proteins": "2.5",
+            "fats": "2.3",
+            "carbohydrates": "3.0",
+            "link": "https://www.russianfood.com/recipes/recipe.php?rid=151182"
+        },
+        {
+            "id": 4,
+            "type": "Суп",
+            "name": "Томатный суп с фрикадельками",
+            "kkal": "220",
+            "dose": "350",
+            "proteins": "2.3",
+            "fats": "2.8",
+            "carbohydrates": "2.1",
+            "link": "https://www.russianfood.com/recipes/recipe.php?rid=153464"
+        },
+        {
+            "id": 5,
+            "type": "Пицца",
+            "name": "Маргарита",
+            "kkal": "180",
+            "dose": "500",
+            "proteins": "4.5",
+            "fats": "5.0",
+            "carbohydrates": "3.7",
+            "link": "https://art-lunch.ru/recipe/pitstsa-margarita_foto/"
+        },
+        {
+            "id": 6,
+            "type": "Пицца",
+            "name": "Пепперони",
+            "kkal": "290",
+            "dose": "500",
+            "proteins": "4.8",
+            "fats": "6.2",
+            "carbohydrates": "4.2",
+            "link": "https://eda.ru/recepty/pasta-picca/picca-pepperoni-104250"
+        }
+    ]
+}
